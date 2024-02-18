@@ -3,11 +3,12 @@
 rm -rf .tmp || continue
 mkdir .tmp
 cp -rp assets/* .tmp
+rm -rf .tmp/**/.gitkeep
 
-for dir in .tmp/*/     # list directories in the form "/tmp/dirname/"
+for dir in .tmp/*/
 do
     cp .tmp/license.md $dir
-    dir=${dir%*/}      # remove the trailing "/"
+    dir=${dir%*/}
     name="${dir##*/}"
 
     pwd=$PWD

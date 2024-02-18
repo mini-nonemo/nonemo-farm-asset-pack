@@ -1,8 +1,10 @@
-# Platformer Asset Pack - Placeholder - [itch.io]()
+# Platformer Asset Pack - Farm Jump - [itch.io](https://nonemo.itch.io/farm-jump-asset-kit)
 
 ![Banner](presentation/Itch%20-%20Banner.png)
 
-_Description_
+Leap into adventure on the charming Farm!
+
+​With lively characters, colorful backgrounds, and all the farm-themed goodies you need, this kit is your ticket to creating awesome platformer games​
 
 # License
 
